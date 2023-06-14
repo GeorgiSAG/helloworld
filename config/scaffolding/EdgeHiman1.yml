@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeHiman1
+  gitServerName: GeorgiSAGGH
+  gitUrl: https://github.com/GeorgiSAG/helloworld
+  gitUsername: GeorgiSAG
+  gitToken: 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
+  gitBranch: master
